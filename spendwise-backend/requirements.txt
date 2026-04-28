@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-jose
+passlib[argon]
+psycopg2-binary
+python-multipart
+pydantic[email]
+argon2-cffi
