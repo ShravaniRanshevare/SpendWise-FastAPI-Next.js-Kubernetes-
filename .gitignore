@@ -20,4 +20,4 @@ dist/
 
 # Secrets
 *.env
-secrets.yaml
+Secret.yaml
